@@ -1,6 +1,6 @@
 # YouTube to atom feed server
 
-This very very v0.1 script scrapes youtube videos (with youtube-dl), extracts periodic screenshots (hat-top to https://mostlymaths.net/2021/01/202102-readings.html/ for the entire concept), uses some off-the-shelf ML models to repunctuate the subtitles, and severs it all to you as a feed to look at in your favourite feedreader.
+This very very v0.1 script scrapes youtube videos (with youtube-dl), extracts periodic screenshots (hat-tip to https://mostlymaths.net/2021/01/202102-readings.html/ for the entire concept), uses some off-the-shelf ML models to repunctuate the subtitles, and severs it all to you as a feed to look at in your favourite feedreader.
 
 ToDo;
 1) Add playlist&channel subscriptions via api endoint
